@@ -1,0 +1,21 @@
+.flex {
+	display: flex;
+}
+
+.flex-item {
+	display: flex;
+	border-right: 1px solid #D7816A;
+	border-bottom: 1px solid #D7816A;
+	min-width: 200px;
+	height: 56px;
+}
+
+.flex-item:first-child {
+	border-left: 1px solid #D7816A;
+}
+
+.flex-item--header {
+	border-top: 1px solid #D7816A;
+	background-color: #A288A6;
+	color: #F1E3E4;
+}
