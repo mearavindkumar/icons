@@ -82,9 +82,7 @@
             <title>table sharp</title>
             <path d="M22 2H2v20h20V2zM8 20H4v-4h4v4zm0-6H4v-4h4v4zm0-6H4V4h4v4zm6 12h-4v-4h4v4zm0-6h-4v-4h4v4zm0-6h-4V4h4v4zm6 12h-4v-4h4v4zm0-6h-4v-4h4v4zm0-6h-4V4h4v4z"/>
         </symbol>
-        
-        
-         <symbol id="icon-close" viewBox="0 0 24 24">
+        <symbol id="icon-close" viewBox="0 0 24 24">
             <title>close</title>
             <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/>
         </symbol>
@@ -99,6 +97,56 @@
         <symbol id="icon-close--sharp" viewBox="0 0 24 24">
             <title>close sharp</title>
             <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/>
+        </symbol>
+        <symbol id="icon-refresh" viewBox="0 0 24 24">
+            <title>refresh</title>
+            <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/>
+        </symbol>
+        <symbol id="icon-refresh--fill" viewBox="0 0 24 24">
+            <title>refresh fill</title>
+            <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/>
+        </symbol>
+        <symbol id="icon-refresh--round" viewBox="0 0 24 24">
+            <title>refresh round</title>
+            <path d="M17.65 6.35c-1.63-1.63-3.94-2.57-6.48-2.31-3.67.37-6.69 3.35-7.1 7.02C3.52 15.91 7.27 20 12 20c3.19 0 5.93-1.87 7.21-4.56.32-.67-.16-1.44-.9-1.44-.37 0-.72.2-.88.53-1.13 2.43-3.84 3.97-6.8 3.31-2.22-.49-4.01-2.3-4.48-4.52C5.31 9.44 8.26 6 12 6c1.66 0 3.14.69 4.22 1.78l-1.51 1.51c-.63.63-.19 1.71.7 1.71H19c.55 0 1-.45 1-1V6.41c0-.89-1.08-1.34-1.71-.71l-.64.65z"/>
+        </symbol>
+        <symbol id="icon-refresh--sharp" viewBox="0 0 24 24">
+            <title>refresh sharp</title>
+            <path d="M17.65 6.35C16.2 4.9 14.21 4 12 4c-4.42 0-7.99 3.58-7.99 8s3.57 8 7.99 8c3.73 0 6.84-2.55 7.73-6h-2.08c-.82 2.33-3.04 4-5.65 4-3.31 0-6-2.69-6-6s2.69-6 6-6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/>
+        </symbol>
+         <symbol id="icon-contract" viewBox="0 0 24 24">
+            <title>contract</title>
+            <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"/>
+        </symbol>
+        <symbol id="icon-contract--fill" viewBox="0 0 24 24">
+            <title>contract fill</title>
+            <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"/>
+        </symbol>
+        <symbol id="icon-contract--round" viewBox="0 0 24 24">
+            <title>contract round</title>
+            <path d="M11.29 8.71L6.7 13.3c-.39.39-.39 1.02 0 1.41.39.39 1.02.39 1.41 0L12 10.83l3.88 3.88c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 8.71c-.38-.39-1.02-.39-1.41 0z"/>
+        </symbol>
+        <symbol id="icon-contract--sharp" viewBox="0 0 24 24">
+            <title>contract sharp</title>
+            <path d="M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"/>
+        </symbol>
+        
+        
+         <symbol id="icon-expand" viewBox="0 0 24 24">
+            <title>expand</title>
+            <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6-1.41-1.41z"/>
+        </symbol>
+        <symbol id="icon-expand--fill" viewBox="0 0 24 24">
+            <title>expand fill</title>
+            <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6-1.41-1.41z"/>
+        </symbol>
+        <symbol id="icon-expand--round" viewBox="0 0 24 24">
+            <title>expand round</title>
+            <path d="M15.88 9.29L12 13.17 8.12 9.29c-.39-.39-1.02-.39-1.41 0-.39.39-.39 1.02 0 1.41l4.59 4.59c.39.39 1.02.39 1.41 0l4.59-4.59c.39-.39.39-1.02 0-1.41-.39-.38-1.03-.39-1.42 0z"/>
+        </symbol>
+        <symbol id="icon-expand--sharp" viewBox="0 0 24 24">
+            <title>expand sharp</title>
+            <path d="M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6-1.41-1.41z"/>
         </symbol>
         
         

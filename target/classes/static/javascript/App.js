@@ -5,7 +5,7 @@ var App = new function () {
     var _this = this;
     this.DIV = document.createElement("div");
 
-    this.ICON = ["save", "edit", "delete", "add", "table", "close"];
+    this.ICON = ["save", "edit", "delete", "add", "table", "close", "refresh", "expand", "contract"];
     this.ICON_SUFFIX = ["", "--fill", "--round", "--sharp"];
 //    this.ICON_SUFFIX = ["", "--fill", "--sharp"];
 
